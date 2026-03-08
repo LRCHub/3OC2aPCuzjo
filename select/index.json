@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "Troubleman",
+  "base_artist": "Electric Guest",
+  "createdAt": "2026-03-08T02:30:44.493500Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Troubleman",
+      "artist": "Electric Guest",
+      "has_synced": true,
+      "path": "select/01_Troubleman_Electric_Guest.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Troubleman",
+      "artist": "Electric Guest",
+      "has_synced": true,
+      "path": "select/02_Troubleman_Electric_Guest.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Troubleman Unlimited",
+      "artist": "Titus Andronicus",
+      "has_synced": true,
+      "path": "select/03_Troubleman_Unlimited_Titus_Andronicus.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "African Pirates (Troubleman Remix)",
+      "artist": "Nightmares on Wax",
+      "has_synced": false,
+      "path": "select/04_African_Pirates_(Troubleman_Remix)_Nightmares_on_Wax.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Troubleman",
+      "artist": "Electric Guest",
+      "has_synced": true,
+      "path": "select/05_Troubleman_Electric_Guest.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Troubleman",
+      "artist": "Electric Guest",
+      "has_synced": true,
+      "path": "select/06_Troubleman_Electric_Guest.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Electric Guest - Troubleman",
+      "artist": "Electric Guest",
+      "has_synced": true,
+      "path": "select/07_Electric_Guest_-_Troubleman_Electric_Guest.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Troubleman",
+      "artist": "Gifted Gab",
+      "has_synced": false,
+      "path": "select/08_Troubleman_Gifted_Gab.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Troubleman",
+      "artist": "ELECTRIC GUEST",
+      "has_synced": false,
+      "path": "select/pl_01_Troubleman_ELECTRIC_GUEST.txt"
+    }
+  ]
+}
